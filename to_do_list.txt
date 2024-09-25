@@ -20,3 +20,12 @@ User-Friendly Interface
 
 Built with tkinter, the application provides a clean and intuitive interface that is easy to navigate.
 Buttons are clearly labeled for all main operations, and the listbox allows for easy selection and management of tasks.
+
+About Tkinter - 
+Tkinter is the inbuilt python module that is used to create GUI applications. It is one of the most commonly used modules for creating GUI applications in Python as it is simple and easy to work with.
+
+In Tkinter, a widget is essentially a graphical component that the user can interact with. They can range from simple elements like buttons and labels to more complex ones like text entry fields, listboxes, and canvases. Each widget serves a specific purpose and can be customized to fit the design and functionality requirements of your application.
+
+Each widget in Tkinter is an instance of a specific class defined in the Tkinter Module. These classes provide methods and attributes that allow you to configure the widget’s appearance, behavior, and functionality. Widgets are typically added to the application’s window or frames using layout managers like pack(), grid(), or place(), which determine their position and size within the interface.
+
+Referece - Tkinter from GeeksForGeeks
